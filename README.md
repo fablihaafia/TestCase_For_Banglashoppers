@@ -1,8 +1,8 @@
-## **Bangla Shoppers Registration Test Cases **
+## Bangla Shoppers Registration Test Cases 
 
-📋 Project Overview
+##📋 Project Overview
 
-## This project outlines the test cases for the Register module on the Bangla Shoppers Website. ##
+ This project outlines the test cases for the Register module on the Bangla Shoppers Website. ##
 
 ## ⚙️ **Prerequisites**
 
@@ -12,11 +12,11 @@ A functional web browser (recommended: Google Chrome).
 
 Test environment configured with necessary tools.
 
-📝 Test Case Description
+##📝 Test Case Description
 
-📌 Module Name: Register👤 Test Case Developed By: Afia🆔 Test Case ID/Name: Register_TC_01📄 Test Case Summary: Verify the successful registration of a new user on the Bangla Shoppers website.
+##📌 Module Name: Register👤 Test Case Developed By: Afia🆔 Test Case ID/Name: Register_TC_01📄 Test Case Summary: Verify the successful registration of a new user on the Bangla Shoppers website.
 
-📊 Test Data
+##📊 Test Data
 
 Field
 
