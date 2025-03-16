@@ -1,10 +1,10 @@
-## Bangla Shoppers Registration Test Cases ##
+## **Bangla Shoppers Registration Test Cases **
 
 📋 Project Overview
 
-This project outlines the test cases for the Register module on the Bangla Shoppers Website.
+## This project outlines the test cases for the Register module on the Bangla Shoppers Website. ##
 
-⚙️ Prerequisites
+## ⚙️ **Prerequisites**
 
 Access to the Bangla Shoppers website.
 
